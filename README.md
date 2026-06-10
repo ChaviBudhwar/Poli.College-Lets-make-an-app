@@ -23,8 +23,5 @@ This repository contains the projects I built during the **Poli.College "Facciam
 ## 📝 P.S.:
 Switching from languages like Python and HTML/CSS to Dart's widget-tree structure was definitely a challenge at first. Wrapping my head around nesting widgets and managing application state took some getting used to. Whenever I hit a roadblock or got lost in complex layouts, I used a mix of course resources, Flutter documentation, and AI assistance to debug my code. 
 
-I'm really proud of how much I learned about mobile development through these projects, and I can't wait to build more complex apps next!
-
-
 
 I'm really proud of how much I learned about mobile development through these projects, and I can't wait to build more complex apps next!
